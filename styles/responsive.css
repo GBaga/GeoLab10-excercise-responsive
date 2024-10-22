@@ -51,7 +51,6 @@
   .red-headline {
     width: 100%;
     display: flex;
-    justify-content: space-between;
   }
 
   .btn {
@@ -61,6 +60,7 @@
   }
 
   .card-list {
+    max-width: 1170px;
   }
 
   .card {
